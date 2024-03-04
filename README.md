@@ -1,2 +1,2 @@
-# JS-teainings
+# JS-trainings
 It is my playground
